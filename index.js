@@ -25,3 +25,5 @@ function iLoveTheBeatles(n) {
   } while ( (15 - i) >= 0);
   return store;
 }
+
+console.log(iLoveTheBeatles(17))
