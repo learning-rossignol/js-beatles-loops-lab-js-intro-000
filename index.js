@@ -16,3 +16,10 @@ function johnLennonFacts(facts) {
   }
   return store;
 }
+
+function iLoveTheBeatles(n) {
+  let store = [];
+  do {
+    store.push("I love the Beatles.")
+  }
+}
