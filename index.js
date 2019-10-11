@@ -26,4 +26,4 @@ function iLoveTheBeatles(n) {
   return store;
 }
 
-console.log(iLoveTheBeatles(7))
+console.log(iLoveTheBeatles(17))
