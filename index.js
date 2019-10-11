@@ -20,6 +20,6 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(n) {
   let store = [];
   do {
-    store.push("I love the Beatles.")
+    store.push("I love the Beatles!")
   }
 }
