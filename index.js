@@ -18,8 +18,10 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles(n) {
-  let store = [];
+  let store = [], i = n;
   do {
-    store.push("I love the Beatles!")
-  }
+    store.push("I love the Beatles!");
+    i++;
+  } while ( (15 - i) >= 0);
+  return store;
 }
